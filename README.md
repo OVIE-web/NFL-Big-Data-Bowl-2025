@@ -1,0 +1,1 @@
+Welcome to the NFL Big Data Bowl 2025 project repository! This repository contains comprehensive analysis and insights derived from the NFL games data for the 2022 season. The goal is to provide actionable analytics and visualizations to uncover hidden trends and patterns in the dataset.
